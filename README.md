@@ -2,7 +2,7 @@
 
 Synthetic data generation pipeline from our [technical report](https://www.trychroma.com/research/context-1).
 
-Generates synthetic multi-hop search tasks across multiple domainss. Each domain follows an explore → verify → extend pattern to produce multi-step retrieval tasks.
+Generates synthetic multi-hop search tasks across multiple domains. Each domain follows an explore → verify → extend pattern to produce multi-step retrieval tasks.
 
 Context-1 model weights are available [here](https://huggingface.co/chromadb/context-1).
 
