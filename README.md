@@ -58,3 +58,16 @@ agentic_search_data_gen/
 │   ├── patents/             # Patent prior-art tasks
 │   └── epstein/             # Email search tasks
 ```
+
+If you find our work useful please consider citing us
+
+```bibtex
+@techreport{bashir2026context1,
+  title        = {Chroma Context-1: Training a Self-Editing Search Agent},
+  author       = {Hammad Bashir and Kelly Hong and Patrick Jiang and Zhiyi Shi},
+  year         = {2026},
+  month        = mar,
+  institution  = {Chroma},
+  url          = {https://trychroma.com/research/context-1}
+}
+```
